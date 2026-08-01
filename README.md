@@ -1,41 +1,174 @@
 <h1 align="center">Hi 👋, I'm Afridi</h1>
-<h3 align="center">A passionate Full-Stack Developer and Competitive Programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Afridi0788afridi&label=Profile%20views&color=0e75b6&style=flat" alt="Afridi0788afridi" /> </p>
+<h3 align="center">
+Full-Stack Developer • Competitive Programmer • Java & Spring Boot Enthusiast
+</h3>
 
-<img align="right" width=350 alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I’m currently working on a **Cinema Ticket Booking Platform** and an **AI-Powered Backend System**.
-- 🌱 I’m currently expanding my knowledge in **Advanced System Design** and **Spring AI**.
-- 👯 I currently serve as the **Joint Secretary & TE Mentor** at the Technical Board, AIT.
-- 🏆 **Competitive Programming:** Codeforces Specialist (Max Rating: 1407) and successfully solved 400+ problems on LeetCode.
-- 💬 Ask me about **Data Structures & Algorithms, C++, Java, and Spring Boot**.
-- 📫 How to reach me: **afridikhan4205@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:afridikhan4205@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
-<a href="https://codeforces.com/profile/Kensho" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" height="30" /></a>
-<a href="https://leetcode.com/Afridicode" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" height="30" /></a>
-<a href="https://github.com/Afridi0788afridi" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=3DDC84&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Competitive+Programmer;Java+%7C+Spring+Boot+Developer;React+Developer;Always+Learning+New+Things🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Afridi0788afridi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Afridi0788afridi?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Afridi0788afridi?style=for-the-badge"/>
 </p>
 
-<br/>
+---
 
-<h3 align="left">GitHub Activity & Stats:</h3>
+## 🚀 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+
+- 🎓 Third Year B.E. Information Technology @ Army Institute of Technology, Pune
+- 💻 Passionate about Backend Development & System Design
+- 🌱 Currently learning **Spring AI, Microservices & Advanced System Design**
+- 🔭 Building **Cinema Ticket Booking Platform**
+- 🤖 Developing **AI Powered Backend Applications**
+- 🏆 Codeforces **Specialist (Max Rating: 1407)**
+- 💯 Solved **400+ LeetCode Problems**
+- 👨‍💼 Joint Secretary & TE Mentor @ Technical Board, AIT
+- 💬 Ask me about **Java, Spring Boot, React, DSA, C++**
+- 📧 **Email:** afridikhan4205@gmail.com
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Afridi0788afridi&show_icons=true&theme=react&hide_border=true" alt="Afridi0788afridi's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Afridi0788afridi&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+
+<a href="mailto:afridikhan4205@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Afridi0788afridi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/Afridicode">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/Kensho">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,spring,react,nextjs,nodejs,express,mongodb,mysql,postgres,html,css,tailwind,js,ts,firebase,git,github,postman,docker,linux,vscode&perline=11"/>
+
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+- ⭐ Codeforces Specialist (**1407 Max Rating**)
+- 🔥 400+ Problems Solved on LeetCode
+- 💯 Strong in DSA, Graphs, Trees, DP
+- 🚀 Regular Contest Participant
+
+---
+
+# 🚀 Featured Projects
+
+## 🎬 Cinema Ticket Booking Platform
+
+✔ Spring Boot
+
+✔ React
+
+✔ JWT Authentication
+
+✔ Refresh Tokens
+
+✔ Role Based Access
+
+✔ PostgreSQL
+
+✔ Secure Payment Ready
+
+---
+
+## 🤖 AI Powered Backend
+
+✔ Spring AI
+
+✔ REST APIs
+
+✔ JWT
+
+✔ Role Based Security
+
+✔ OpenAI/Gemini Integration
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Afridi0788afridi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afridi0788afridi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afridi0788afridi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afridi0788afridi&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Afridi0788afridi&theme=tokyonight&row=1&column=7&margin-w=10"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+while(!Success){
+    Learn();
+    Build();
+    Debug();
+    Repeat();
+}
+```
+
+---
+
+<p align="center">
+
+### ⭐️ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
 </p>
